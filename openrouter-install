@@ -1,0 +1,3 @@
+pip install openrouter
+pip install openai python-dotenv
+export OPENROUTER_API_KEY="API-KEY"
